@@ -73,3 +73,4 @@ def recognize(img, db_path):
     else:
         return 'unknown_person'
 
+
